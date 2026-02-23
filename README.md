@@ -1,1 +1,1 @@
-# azure-kubernetes-cicd-project
+Project deployed on Azure VM with Kubernetes cluster
